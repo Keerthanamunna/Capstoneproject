@@ -8,3 +8,6 @@ Admin: The creater will have all permissions for both venue and places
 Co-Admin: The co traveller will have all rights except update or deleting the venue.
 Viewer: They can only view the places and venues.
 
+Deployed using heroku at the below link:
+https://git.heroku.com/travelldiar.git
+
