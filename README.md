@@ -19,6 +19,8 @@ flask db upgrade
 
 pip install psychopg2-binary
 
+FLASK_APP=app.py FLASK_DEBUG=TRUE flask run
+
 Create Account in auth0 and give permissions.
 
 Run test_run.py for test cases running
